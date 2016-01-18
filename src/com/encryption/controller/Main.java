@@ -44,6 +44,8 @@ public class Main {
 		System.out.println(input);
 		return MessageDigestUtil.getMD5FromFile(input, encryptType);
 	}
+	
+
 
 	public static void main(String[] args) throws Exception {
 
